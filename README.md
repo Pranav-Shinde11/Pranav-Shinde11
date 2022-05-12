@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I'm [Pranav](https://www.linkedin.com/in/pranav-shinde-928338207/)
+
 <!--
 **Pranav-Shinde11/Pranav-Shinde11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
