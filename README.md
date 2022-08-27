@@ -9,9 +9,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+DevOps;Nice+To+Meet+You+...&center=true"></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=2000&color=B8F745&background=753DFF00&center=true&width=460&height=55&lines=Nice+to+meet+you...;Open+Source+Enthusiast;Artificial+Intelligence+%26+Data+Science" alt="Typing SVG" /></a>
 </p>
 
 <!-- Badges template - https://github.com/badges/shields -->
@@ -24,7 +22,8 @@ I am  **Pranav Shinde** and I am a junior pursuing my Bachelor's in Artificial I
 <h1 align = "center">
   
   <a href="https://twitter.com/home" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> <a href="https://www.linkedin.com/in/pranav-shinde-928338207/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> 
+<a href="https://www.linkedin.com/in/pranav-shinde-928338207/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 
@@ -39,6 +38,7 @@ I am  **Pranav Shinde** and I am a junior pursuing my Bachelor's in Artificial I
 ![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=SQL&logoColor=white)
 
 </h1>
 
