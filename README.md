@@ -21,7 +21,7 @@ I am  **Pranav Shinde** and I am a junior pursuing my Bachelor's in Artificial I
 
 <h1 align = "center">
   
-  <a href="https://twitter.com/home" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://twitter.com/Pranavstwt11" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> 
 <a href="https://www.linkedin.com/in/pranav-shinde-928338207/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
