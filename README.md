@@ -4,7 +4,7 @@
 
 <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to Pranav Shinde's profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crushpixel.com%2Fstock-vector%2Fvector-laptop-coding-concept-web-2785733.html&psig=AOvVaw3341eujVpOIT_3DbvGOQ7G&ust=1672112959738000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD-5auwlvwCFQAAAAAdAAAAABAS)" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
