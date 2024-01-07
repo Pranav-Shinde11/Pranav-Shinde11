@@ -1,5 +1,5 @@
 <div>
-<img align="[https://github.com/Pranav-Shinde11/Pranav-Shinde11/blob/main/1563.jpg]">
+<img align="center" src="https://github.com/Pranav-Shinde11/Pranav-Shinde11/blob/main/1563.jpg">
 </div>
 
 <h3 align="center">
